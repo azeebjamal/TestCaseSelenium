@@ -210,7 +210,7 @@
         ["xpath=//form[@id='account-creation_form']/div/div[5]/input", "xpath:idRelative"],
         ["xpath=//div[5]/input", "xpath:position"]
       ],
-      "value": "maivewiley11"
+      "value": "maivew11"
     }, {
       "id": "a538d732-963c-4aca-abcf-e1b6dc6400c9",
       "comment": "",
